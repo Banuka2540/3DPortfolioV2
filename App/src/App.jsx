@@ -1,8 +1,10 @@
 const App = () => {
-    return(
+    return (
         <main>
             <div>
-                <h1>Welcome to mywebsite</h1>
+                <h1>
+                    Welcome to my 3d portfolio
+                </h1>
             </div>
         </main>
     )
